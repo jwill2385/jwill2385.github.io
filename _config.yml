@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Jadal
-middle_name: 
+middle_name:
 last_name: Williams
 email: jadal@mit.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -108,7 +108,6 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
 work_url: # work page URL
-#email: jadal@mit.edu
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
