@@ -2,13 +2,25 @@
 layout: page
 title: Master's Thesis
 description: with background image
-img: assets/img/hero_shot_robot.png
+img: assets/img/Thesis/hero_shot_robot.png
 importance: 1
 category: work
 related_publications: true
 ---
 
 For my MIT Master's Thesis I developed a novel method to localize a robotic end effector using the Koopman Operator and image observables. Through my reseach, I designed and built a dexterous gantry crane system where a 6-DOF robotic arm can be inversly mounted to a gantry crane to assist with heavy industry machinery tasks in construction factories. [My full thesis can be read here](https://dspace.mit.edu/handle/1721.1/151814?show=full)
+
+To create a hyperlink in markdown, you can use the following syntax:
+
+```markdown
+[Link Text](http://example.com)
+```
+
+For example, to link to GitHub, you can write:
+
+```markdown
+[GitHub](https://github.com)
+```
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
