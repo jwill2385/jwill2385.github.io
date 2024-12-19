@@ -3,15 +3,15 @@
     "name": "Jadal N. Williams",
     "label": "Graduate Researcher and Computer Vision Specialist",
     "email": "jadal@mit.edu",
-    "phone": "(734) 695-9930",
-    "location": {
-      "address": "105 Norfolk St, Apt 4",
-      "postalCode": "02142",
-      "city": "Cambridge",
-      "region": "Massachusetts",
-      "countryCode": "US"
-    },
-    "summary": "Ph.D. candidate in Mechanical Engineering at MIT with expertise in robotics and computer vision, holding a strong track record in academia, startups, and professional internships."
+    // "phone": "(734) 695-9930",
+    // "location": {
+    //   "address": "105 Norfolk St, Apt 4",
+    //   "postalCode": "02142",
+    //   "city": "Cambridge",
+    //   "region": "Massachusetts",
+    //   "countryCode": "US"
+    // },
+    "summary": "Ph.D. Student in Mechanical Engineering at MIT with expertise in robotics and computer vision, holding a strong track record in academia, startups, and professional internships."
   },
   "education": [
     {
@@ -63,7 +63,7 @@
   "work": [
     {
       "name": "MIT Sports Lab",
-      "location": "Cambridge, Massachusetts",
+      "location": "Cambridge, MA",
       "position": "Graduate Researcher",
       "startDate": "2024-01-01",
       "endDate": null,
@@ -71,7 +71,7 @@
     },
     {
       "name": "Vision Sense Analytics",
-      "location": "Cambridge, Massachusetts",
+      "location": "Cambridge, MA",
       "position": "Co-Founder",
       "startDate": "2023-01-01",
       "endDate": null,
@@ -79,7 +79,7 @@
     },
     {
       "name": "Tulip Interfaces",
-      "location": "Somerville, Massachusetts",
+      "location": "Somerville, MA",
       "position": "Technical Program Manager",
       "startDate": "2023-01-01",
       "endDate": "2024-01-01",
@@ -87,7 +87,7 @@
     },
     {
       "name": "MIT d\u2019Arbeloff Lab",
-      "location": "Cambridge, Massachusetts",
+      "location": "Cambridge, MA",
       "position": "Graduate Researcher",
       "startDate": "2021-01-01",
       "endDate": "2023-01-01",
@@ -119,19 +119,20 @@
     }
   ],
   "skills": [
-    "C++",
-    "JavaScript",
-    "Java",
-    "Python",
-    "React",
-    "Android",
-    "OpenCV",
-    "SolidWorks",
-    "MATLAB",
-    "ROS",
-    "ROS2",
-    "PyTorch"
-  ],
+    {
+    "name":"C++",
+    "name":"JavaScript",
+    "name":"Java",
+    "name":"Python",
+    "name":"React",
+    "name":"Android",
+    "name":"OpenCV",
+    "name":"SolidWorks",
+    "name":"MATLAB",
+    "name":"ROS",
+    "name":"ROS2",
+    "name":"PyTorch"
+}],
   "awards": [
     {
       "title": "Ron Brown Scholar",
