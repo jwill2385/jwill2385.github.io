@@ -33,7 +33,6 @@ For my MIT Master's Thesis I developed a novel method to localize a robotic end 
     Gantry Crane with inverted UR-5 robot attached
 </div>
 
-
 {% raw %}
 
 ```html
