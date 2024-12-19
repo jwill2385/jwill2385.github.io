@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "Jadal N. Williams",
+    "name": "Jadal Williams",
     "label": "Graduate Researcher and Computer Vision Specialist",
     "email": "jadal@mit.edu",
     // "phone": "(734) 695-9930",
@@ -120,18 +120,20 @@
   ],
   "skills": [
     {
-    "name":"C++",
-    "name":"JavaScript",
-    "name":"Java",
-    "name":"Python",
-    "name":"React",
-    "name":"Android",
-    "name":"OpenCV",
-    "name":"SolidWorks",
-    "name":"MATLAB",
-    "name":"ROS",
-    "name":"ROS2",
-    "name":"PyTorch"
+      "keywords": [
+    "C++",
+    "JavaScript",
+    "Java",
+    "Python",
+    "React",
+    "Android",
+    "OpenCV",
+    "SolidWorks",
+    "MATLAB",
+    "ROS",
+    "ROS2",
+    "PyTorch"
+      ]
 }],
   "awards": [
     {
