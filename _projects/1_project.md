@@ -10,8 +10,6 @@ related_publications: true
 
 For my MIT Master's Thesis I developed a novel method to localize a robotic end effector using the Koopman Operator and image observables. Through my reseach, I designed and built a dexterous gantry crane system where a 6-DOF robotic arm can be inversly mounted to a gantry crane to assist with heavy industry machinery tasks in construction factories. [My full thesis can be read here](https://dspace.mit.edu/handle/1721.1/151814?show=full)
 
-
-
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Thesis/crane_robot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -70,3 +68,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+````
