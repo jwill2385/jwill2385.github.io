@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Master's Thesis
-description: with background image
-img: assets/img/Thesis/hero_shot_robot.png
+description:
+img: assets/img/Thesis/hero_shot_robot.jpg
 importance: 1
 category: work
 related_publications: true
@@ -10,33 +10,14 @@ related_publications: true
 
 For my MIT Master's Thesis I developed a novel method to localize a robotic end effector using the Koopman Operator and image observables. Through my reseach, I designed and built a dexterous gantry crane system where a 6-DOF robotic arm can be inversly mounted to a gantry crane to assist with heavy industry machinery tasks in construction factories. [My full thesis can be read here](https://dspace.mit.edu/handle/1721.1/151814?show=full)
 
-To create a hyperlink in markdown, you can use the following syntax:
 
-```markdown
-[Link Text](http://example.com)
-```
-
-For example, to link to GitHub, you can write:
-
-```markdown
-[GitHub](https://github.com)
-```
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Thesis/crane_robot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Thesis/crane_robot_grad.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
