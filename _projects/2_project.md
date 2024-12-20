@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Picza
+description: Robotic dolly for conetent creators
 img: assets/img/3.jpg
 importance: 2
 category: work
@@ -21,6 +21,20 @@ To give your project a background in the portfolio page, just add the img tag to
     img: /assets/img/12.jpg
     ---
 
+<div class="row">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        <!-- YouTube video embed -->
+        <iframe width="560" height="315" 
+                src="https://www.youtube.com/watch?v=8OlQn_vJShk" 
+                title="Picza Demo" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen>
+        </iframe>
+    </div>
+</div>
+
+The Picza is a robotic dolly that provides amateur filmmakers the ability to shoot professional-level tracking, trucking, and arc shots.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
