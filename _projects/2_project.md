@@ -25,7 +25,7 @@ To give your project a background in the portfolio page, just add the img tag to
     <div class="col-sm-12 mt-3 mt-md-0">
         <!-- YouTube video embed -->
         <iframe width="560" height="315" 
-                src="https://www.youtube.com/watch?v=8OlQn_vJShk" 
+                src="https://www.youtube.com/embed/8OlQn_vJShk" 
                 title="Picza Demo" 
                 frameborder="0" 
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
