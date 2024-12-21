@@ -43,6 +43,9 @@ I co-founded and lead Cazarme as CEO over the pandemic. Cazarme was a B2B SaaS s
 
 ### Stelth Startup  
 ![Stealth Startup Logo](assets/img/entrepreneur/stealth_mode.jpg)
+<div class="row">
+    <img src="assets/img/entrepreneur/stealth_mode.jpg" alt="Stealth Startup" class="img-fluid rounded">
+</div>
 
 I am currently building a new solution leveraging AI and machine learning. Stay tuned for updates!
 
