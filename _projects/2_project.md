@@ -91,7 +91,7 @@ We purchased an off the shelf tripod dolly, dissasembled its components, and mod
 
 <div class="row justify-content-center">
     <div class="col-sm-8">
-        {% include figure.liquid path="assets/img/picza_full.jpeg" title="Picza" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/picza_team.jpg" title="Picza Team" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
