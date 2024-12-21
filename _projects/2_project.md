@@ -5,7 +5,6 @@ description: Robotic dolly for conetent creators
 img: assets/img/picza_full.jpeg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
 Product Design and Development - MIT 2.739
