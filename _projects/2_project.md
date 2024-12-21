@@ -2,7 +2,7 @@
 layout: page
 title: Picza
 description: Robotic dolly for conetent creators
-img: assets/img/picza_full.jpg
+img: assets/img/picza_full.jpeg
 importance: 2
 category: work
 giscus_comments: true
@@ -72,9 +72,10 @@ Our prototype uses an Arduino microcontroller to interface with two drive motors
 
 <div class="row justify-content-center">
     <div class="col-sm-8">
-        <img src="assets/img/picza_demo.gif" alt="Prototype demo gif" class="img-fluid rounded">
+        {% include figure.liquid path="assets/img/picza_demo.gif" title="Animated concept of Picza" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
 
 We purchased an off the shelf tripod dolly, dissasembled its components, and modernized the design by adding a microcontroller and motors which lead to our finalized protoype.
 
