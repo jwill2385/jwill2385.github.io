@@ -26,10 +26,10 @@ Product Design and Development - MIT 2.739
 The Picza is a robotic dolly that provides amateur filmmakers the ability to shoot professional-level tracking, trucking, and arc shots.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/picza_full.jpg" title="Picza" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/picza_full.jpeg" title="Picza" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/picza_base.jpg" title="Base" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/picza_base.jpeg" title="Base" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -65,6 +65,18 @@ Through our research we identifiyed that the majority of amateur creators lack a
 <div class="caption">
     On the left are initial concept sketches of our design. In the center we developed an initial prototype with a press fit to attach the tripod. On the right is an updated prototype using an adjustable velcro strap to hold in the tripod legs
 </div>
+
+To make Picza an effective product, we focused on creating a platform that minimizes user input on the front end while relying on a robust backend architecture.
+
+Our prototype uses an Arduino microcontroller to interface with two drive motors through a separate controller. A PID controller was designed and fine-tuned to execute specific motion profiles with precision. By implementing mathematical models for various geometric shapes, we enabled the prototype to perform a range of motion profiles. Additionally, we integrated Bluetooth-based communication with a smartphone, enabling both real-time remote control and the ability to assign preprogrammed motion profiles.
+
+<div class="row justify-content-center">
+    <div class="col-sm-8">
+        <img src="assets/img/picza_demo.gif" alt="Prototype demo gif" class="img-fluid rounded">
+    </div>
+</div>
+
+We purchased an off the shelf tripod dolly, dissasembled its components, and modernized the design by adding a microcontroller and motors which lead to our finalized protoype.
 
 The code is simple.
 Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
