@@ -1,16 +1,28 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Household Robot
+description: Simulation of a household robot
+img: assets/img/robot_manip/open_cupboard.png
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Abstract - Through this work we explored the feasibility of an
+iiwa robot performing household pick and place tasks within
+a simulated environment. Tasks include opening cabinet doors,
+retrieving an obscured cup, and placing it on a table while en-
+suring collision-free motion. We use bi-RRT for pathfinding and
+refine trajectories with kinematic optimization. A state machine
+manages tasks dynamically, overcoming challenges like scene
+randomness, IK sensitivity, and collision checking. The model
+achieved a 70% success rate across trials, with failure modes
+including robot singularities and final cup pose misalignment.
+Future work aims to integrate vision-based grasping and explore
+alternative trajectory planning methods for randomized objects.
+The gripper object grasping pose was predefined to grab a
+cup and bowl object from within a cupboard. Key challenges
+include determining collision-free trajectory while adhering to
+joint singularities and hydroelectric contact.
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
