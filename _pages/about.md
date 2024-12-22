@@ -21,12 +21,12 @@ Jadal is an adept problem solver with a keen eye for business opportunities. Wit
 <div class="row row-cols-1 row-cols-md-2">
   <div class="col mb-4">
     <a href="/projects">
-      <img src="/assets/images/Thesis/hero_shot_robot.jpg" class="img-fluid" alt="Master's Thesis">
+      <img src="/assets/img/Thesis/hero_shot_robot.jpg" class="img-fluid" alt="Master's Thesis">
     </a>
   </div>
   <div class="col mb-4">
     <a href="/projects">
-      <img src="/assets/images/picza_full.jpeg" class="img-fluid" alt="Picza">
+      <img src="/assets/img/picza_full.jpeg" class="img-fluid" alt="Picza">
     </a>
   </div>
 </div>
