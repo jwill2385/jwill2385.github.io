@@ -68,6 +68,7 @@ Output: Path connecting q_init and q_goal
      g. If PathFound(T_start, T_goal): Break
 3. Return Path connecting q_init and q_goal
 </pre>
+```
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
