@@ -50,7 +50,6 @@ We defined a state machine to manage the robot's actions. Our robot contained th
 
 To determine a collision-free trajectory for our robot manipulator, we used bi-directional RRT pathfinding. The RRT algorithm was used to find an optimal path from the robot's current position to the goal position. The path was then refined using a shortcutting method. The full pathfinding algorithm is shown below.
 
-```html
 <pre class="pseudocode">
 Algorithm: Bi-RRT Algorithm
 
@@ -68,7 +67,7 @@ Output: Path connecting q_init and q_goal
      g. If PathFound(T_start, T_goal): Break
 3. Return Path connecting q_init and q_goal
 </pre>
-```
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
