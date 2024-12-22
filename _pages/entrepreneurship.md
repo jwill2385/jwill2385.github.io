@@ -25,7 +25,7 @@ Our team has delivered high-quality solutions across industries such as healthca
 ### Cazarme INC
 
 
-<img src="../assets/img/entrepreneur/Cazarme_logo_transparent.png" alt="Cazarme Logo" style="width: 250px; height: auto;">
+<img src="../assets/img/entrepreneur/Cazarme_logo.png" alt="Cazarme Logo" style="width: 250px; height: auto;">
 
 
 I co-founded and led Cazarme as CEO during the pandemic. Cazarme was a B2B SaaS startup that leveraged Natural Language Processing (NLP) to analyze user research interviews. 
@@ -35,7 +35,7 @@ I co-founded and led Cazarme as CEO during the pandemic. Cazarme was a B2B SaaS 
 
 ---
 
-### Stelth Startup  
+### Stealth Startup  
 
 
 <img src="../assets/img/entrepreneur/stealth_mode.jpg" alt="Stealth Mode" style="width: 250px; height: auto;">
