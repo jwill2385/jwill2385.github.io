@@ -43,23 +43,12 @@ I am currently building a new solution leveraging AI and machine learning. Stay 
 ## Teaching
 
 ### Sustainable Entrepreneurship Hackathon – Northeastern University (Fall 2024)
-![Workshop Photo](../assets/img/entrepreneur/northeastern_class.jpg)
+<img src="../assets/img/entrepreneur/northeastern_class.jpg" alt="Workshop" style="width: 450px; height: auto;">
 
-I had the privilege of designing and leading a workshop on **problem identification and customer discovery** at Northeastern University’s Sustainable Innovation Startup Hackathon. 
-- **Audience**: 30+ undergraduate and graduate students
-- **Key Learnings**: Taught methods for identifying problems and validating assumptions through customer discovery interviews.
-
-Read more about the workshop in my [LinkedIn article](https://www.linkedin.com/pulse/problem-identification-customer-discovery-jadal-williams-rjn0e/?trackingId=fMiicdD7Q8GluJvrFjo6pQ%3D%3D).
-
-### Northeastern University Sustainable Entrepreneurship Hackathon (Fall 2024)
-insert photo here
-
-I had the privilege of designing and leading a workshop on problem identification and customer discovery at Northeastern’s Sustainable Innovation Startup Hackathon! I taught a room of over 30 undergraduate and graduate students how to identify problems and validate their assumptions through customer discovery interviews. My full article diving deeper into the workshop can be found [here](https://www.linkedin.com/pulse/problem-identification-customer-discovery-jadal-williams-rjn0e/?trackingId=fMiicdD7Q8GluJvrFjo6pQ%3D%3D).
+I had the privilege of designing and leading a workshop on **problem identification and customer discovery** at Northeastern University’s Sustainable Innovation Startup Hackathon. I taught a room of over 30 undergraduate and graduate students how to identify problems and validate their assumptions through customer discovery. Read more about the workshop in my [LinkedIn article](https://www.linkedin.com/pulse/problem-identification-customer-discovery-jadal-williams-rjn0e/?trackingId=fMiicdD7Q8GluJvrFjo6pQ%3D%3D).
 
 ---
 
 ### MIT Founders Journey (Fall 2023)
 
-I had the honor of speaking at MIT’s **Founders Journey** class, sharing insights from my entrepreneurial journey with undergraduate students. 
-- **Impact**: Engaged students with actionable advice and real-world examples.
-- **Focus**: Lessons learned from building startups and leading innovation.
+I had the honor of speaking at MIT’s **Founders Journey** class, sharing insights from my entrepreneurial journey with undergraduate students. I engaged students with actionable advice and real-world examples of turning ideas into viable products.
