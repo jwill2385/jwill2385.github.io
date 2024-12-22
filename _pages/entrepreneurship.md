@@ -22,6 +22,16 @@ Cloud Walk Enterprises is a software development and consulting company I founde
 Our team has delivered high-quality solutions across industries such as healthcare, finance, and education, empowering clients with innovative technology.
 
 ---
+
+### Stealth Startup  
+
+
+<img src="../assets/img/entrepreneur/stealth_mode.jpg" alt="Stealth Mode" style="width: 250px; height: auto;">
+
+I am currently building a new solution leveraging AI and machine learning. Stay tuned for updates!
+
+---
+
 ### Cazarme INC
 
 
@@ -32,15 +42,6 @@ I co-founded and led Cazarme as CEO during the pandemic. Cazarme was a B2B SaaS 
 - **Accelerator Program**: Alchemist Accelerator Cohort XXIX
 - **Backed By**: Lightspeed Venture Partners and Accel
 - **Impact**: Enabled businesses to deeply understand their customers and derive actionable insights from the user research process.
-
----
-
-### Stealth Startup  
-
-
-<img src="../assets/img/entrepreneur/stealth_mode.jpg" alt="Stealth Mode" style="width: 250px; height: auto;">
-
-I am currently building a new solution leveraging AI and machine learning. Stay tuned for updates!
 
 ---
 <h2 style="color:rgb(5, 253, 5);">Teachings</h2> <!-- Green for Teachings -->
