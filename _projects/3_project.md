@@ -24,14 +24,11 @@ cup and bowl object from within a cupboard. Key challenges
 include determining collision-free trajectory while adhering to
 joint singularities and hydroelectric contact.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<video width="640" height="360" controls>
+    <source src="..assets\video\robot_simulatio_w_captions.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
