@@ -10,14 +10,8 @@ nav_order: 6
 ## Ventures
 
 ### Cloud Walk Enterprises
-
-insert logo here
-
-
-Cloud Walk Enterprises is a software development and consulting company founded in 2022. The company specializes in developing custom software solutions for small and medium-sized businesses. We Assist businesses and individuals in web development, mobile development, software architecture, & startup advising. The company has a team of software developers, designers, and project managers who work together to deliver high-quality software solutions to clients. The company has worked with clients in a variety of industries, including healthcare, finance, and education.
-
-### Cloud Walk Enterprises
 ![Cloud Walk Enterprises Logo](../assets/img/entrepreneur/cwe_logo_scaled.jpg)
+<img src="../assets/img/entrepreneur/cwe_logo_scaled.jpg" alt="CWE Logo" style="width: 150px; height: auto;">
 
 Cloud Walk Enterprises is a software development and consulting company I founded in 2022. We specialize in creating custom software solutions for small and medium-sized businesses, focusing on:
 - **Web and Mobile Development**
@@ -29,23 +23,19 @@ Our team has delivered high-quality solutions across industries such as healthca
 ---
 ### Cazarme INC
 ![Cazarme Logo](../assets/img/entrepreneur/Cazarme_logo_transparent.png)
+<img src="../assets/img/entrepreneur/Cazarme_logo_transparent.png" alt="Cazarme Logo" style="width: 150px; height: auto;">
+
 
 I co-founded and led Cazarme as CEO during the pandemic. Cazarme was a B2B SaaS startup that leveraged Natural Language Processing (NLP) to analyze user research interviews. 
 - **Accelerator Program**: Alchemist Accelerator Cohort XIXX
 - **Backed By**: Lightspeed Venture Partners and Accel
-- **Impact**: Enabled businesses to deeply understand their customers.
+- **Impact**: Enabled businesses to deeply understand their customers and accelerate the user research process.
 
 ---
-### Cazarme INC
-insert Logo Here
-
-I co-founded and lead Cazarme as CEO over the pandemic. Cazarme was a B2B SaaS startup that helped businesses better understand their customers by using Natural Language Processing (NLP) to analyze user research interviews. We participated in Alchemist Accelerator Cohort XIXX and were backed by Lightspeed Venture Partners and Accel.
 
 ### Stelth Startup  
 ![Stealth Startup Logo](../assets/img/entrepreneur/stealth_mode.jpg)
-<div class="row">
-    <img src="../assets/img/entrepreneur/stealth_mode.jpg" alt="Stealth Startup" class="img-fluid rounded">
-</div>
+<img src="../assets/img/entrepreneur/stealth_mode.jpg" alt="Stealth Mode" style="width: 150px; height: auto;">
 
 I am currently building a new solution leveraging AI and machine learning. Stay tuned for updates!
 
@@ -55,7 +45,7 @@ I am currently building a new solution leveraging AI and machine learning. Stay 
 ### Sustainable Entrepreneurship Hackathon – Northeastern University (Fall 2024)
 ![Workshop Photo](../assets/img/entrepreneur/northeastern_class.jpg)
 
-I designed and led a workshop on **problem identification and customer discovery** at Northeastern University’s Sustainable Innovation Startup Hackathon. 
+I had the privilege of designing and leading a workshop on **problem identification and customer discovery** at Northeastern University’s Sustainable Innovation Startup Hackathon. 
 - **Audience**: 30+ undergraduate and graduate students
 - **Key Learnings**: Taught methods for identifying problems and validating assumptions through customer discovery interviews.
 
