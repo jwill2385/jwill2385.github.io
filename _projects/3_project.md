@@ -5,6 +5,7 @@ description: Simulation of a household robot
 img: assets/img/robot_manip/open_cupboard.png
 importance: 3
 category: work
+pseudocode: true
 ---
 
 Abstract - Through this work we explored the feasibility of an
@@ -46,6 +47,28 @@ We defined a state machine to manage the robot's actions. Our robot contained th
         {% include figure.liquid loading="eager" path="assets/img/robot_manip/state_machine.jpg" title="state machine" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+To determine a collision-free trajectory for our robot manipulator, we used bi-directional RRT pathfinding. The RRT algorithm was used to find an optimal path from the robot's current position to the goal position. The path was then refined using a shortcutting method. The full pathfinding algorithm is shown below.
+
+```html
+<pre class="pseudocode">
+Algorithm: Bi-RRT Algorithm
+
+Input: Initial state q_init, Goal state q_goal
+Output: Path connecting q_init and q_goal
+
+1. Initialize T_a ← {q_init}, T_b ← {q_goal}
+2. While Valid Path Not Found:
+     a. q_rand ← SampleRandomNode()
+     b. q_near ← NearestNeighbor(T_a, q_rand)
+     c. ValidityChecker(q_rand)
+     d. [q_added, a] ← T_a.Extend(q_near, q_rand)
+     e. T_b.Extend(q_near, q_a, rand)
+     f. Swap T_a and T_b
+     g. If PathFound(T_start, T_goal): Break
+3. Return Path connecting q_init and q_goal
+</pre>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
