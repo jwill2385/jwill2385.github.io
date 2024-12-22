@@ -11,7 +11,7 @@ nav_order: 6
 
 ### Cloud Walk Enterprises
 <!-- ![Cloud Walk Enterprises Logo](../assets/img/entrepreneur/cwe_logo_scaled.jpg) -->
-<img src="../assets/img/entrepreneur/cwe_logo_scaled.png" alt="CWE Logo" style="width: 150px; height: auto;">
+<img src="../assets/img/entrepreneur/cwe_logo_scaled.png" alt="CWE Logo" style="width: 250px; height: auto;">
 
 Cloud Walk Enterprises is a software development and consulting company I founded in 2022. We specialize in creating custom software solutions for small and medium-sized businesses, focusing on:
 - **Web and Mobile Development**
@@ -23,7 +23,7 @@ Our team has delivered high-quality solutions across industries such as healthca
 ---
 ### Cazarme INC
 <!-- ![Cazarme Logo](../assets/img/entrepreneur/Cazarme_logo_transparent.png) -->
-<img src="../assets/img/entrepreneur/Cazarme_logo_transparent.png" alt="Cazarme Logo" style="width: 150px; height: auto;">
+<img src="../assets/img/entrepreneur/Cazarme_logo_transparent.png" alt="Cazarme Logo" style="width: 250px; height: auto;">
 
 
 I co-founded and led Cazarme as CEO during the pandemic. Cazarme was a B2B SaaS startup that leveraged Natural Language Processing (NLP) to analyze user research interviews. 
@@ -35,7 +35,7 @@ I co-founded and led Cazarme as CEO during the pandemic. Cazarme was a B2B SaaS 
 
 ### Stelth Startup  
 <!-- ![Stealth Startup Logo](../assets/img/entrepreneur/stealth_mode.jpg) -->
-<img src="../assets/img/entrepreneur/stealth_mode.jpg" alt="Stealth Mode" style="width: 150px; height: auto;">
+<img src="../assets/img/entrepreneur/stealth_mode.jpg" alt="Stealth Mode" style="width: 250px; height: auto;">
 
 I am currently building a new solution leveraging AI and machine learning. Stay tuned for updates!
 
