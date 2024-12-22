@@ -19,8 +19,14 @@ As a visionary leader at the intersection of technology and business, Jadal Will
 Jadal is an adept problem solver with a keen eye for business opportunities. With a track record of founding startups and fostering collaborative teams, Jadal thrives on tackling complex challenges head-on, driven by a passion to engineer meaningful societal impact. Check out some of Jadal's projects below.
 
 <div class="row row-cols-1 row-cols-md-2">
-  {% assign project1 = site.projects | where: "title", "Master's Thesis" | first %}
-  {% assign project2 = site.projects | where: "title", "Picza" | first %}
-  {% include projects.liquid project=project1 %}
-  {% include projects.liquid project=project2 %}
+  <div class="col mb-4">
+    <a href="/projects">
+      <img src="/assets/images/Thesis/hero_shot_robot.jpg" class="img-fluid" alt="Master's Thesis">
+    </a>
+  </div>
+  <div class="col mb-4">
+    <a href="/projects">
+      <img src="/assets/images/picza_full.jpeg" class="img-fluid" alt="Picza">
+    </a>
+  </div>
 </div>
