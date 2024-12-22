@@ -57,17 +57,9 @@
       "name": "MIT Sports Lab",
       "location": "Cambridge, MA",
       "position": "Graduate Researcher",
-      "startDate": "2024-01-01",
+      "startDate": "2024-09-01",
       "endDate": null,
       "summary": "Conducting computer vision and machine learning research to assist professional sports with player tracking, health, and officiating."
-    },
-    {
-      "name": "Vision Sense Analytics",
-      "location": "Cambridge, MA",
-      "position": "Co-Founder",
-      "startDate": "2023-01-01",
-      "endDate": null,
-      "summary": "Developing computer vision solutions for retail and farming applications, including custom video classifiers and Jetson device deployments."
     },
     {
       "name": "Tulip Interfaces",
@@ -81,8 +73,8 @@
       "name": "MIT d\u2019Arbeloff Lab",
       "location": "Cambridge, MA",
       "position": "Graduate Researcher",
-      "startDate": "2021-01-01",
-      "endDate": "2023-01-01",
+      "startDate": "2021",
+      "endDate": "2023",
       "summary": "Conducted computer vision research in robotics, publishing work on object classification and robot trajectory prediction."
     },
     {
@@ -91,7 +83,7 @@
       "position": "Co-Founder & CEO",
       "startDate": "2020-01-01",
       "endDate": "2021-01-01",
-      "summary": "Built a B2B SaaS startup leveraging AI for actionable insights from user research, supported by Lightspeed Ventures and Accel."
+      "summary": "Co-founded B2B SaaS startup that uses AI to help companies extract actionable insights from user research interviews, Backed by Lightspeed Venture Partners and Accel."
     },
     {
       "name": "Adobe",
