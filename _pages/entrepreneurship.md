@@ -29,9 +29,9 @@ Our team has delivered high-quality solutions across industries such as healthca
 
 
 I co-founded and led Cazarme as CEO during the pandemic. Cazarme was a B2B SaaS startup that leveraged Natural Language Processing (NLP) to analyze user research interviews. 
-- **Accelerator Program**: Alchemist Accelerator Cohort XIXX
+- **Accelerator Program**: Alchemist Accelerator Cohort XXIX
 - **Backed By**: Lightspeed Venture Partners and Accel
-- **Impact**: Enabled businesses to deeply understand their customers and accelerate the user research process.
+- **Impact**: Enabled businesses to deeply understand their customers and derive actionable insights from the user research process.
 
 ---
 
