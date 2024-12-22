@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jwill2385.github.io/sitemap.xml
+Sitemap: https://jadalwilliams.com/sitemap.xml
