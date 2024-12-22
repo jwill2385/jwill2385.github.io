@@ -7,6 +7,7 @@ importance: 3
 category: work
 pseudocode: true
 ---
+## MIT 6.4212 Robot Manipulation
 
 Abstract - Through this work we explored the feasibility of an
 iiwa robot performing household pick and place tasks within
