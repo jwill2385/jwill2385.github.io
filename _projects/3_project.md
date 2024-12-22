@@ -34,8 +34,8 @@ joint singularities and hydroelectric contact.
 
 For our robot environment, we used predefined grasp poses for the cup. The robot manipulator could grasp from 3 orientations at the lip and 1 at the handel as shown in the image below
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/robot_manip/cup_with_poses.png" title="grasp pose" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
