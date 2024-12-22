@@ -2,12 +2,12 @@
 layout: page
 permalink: /entrepreneurship/
 title: Entrepreneurship in Action
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 6
 ---
 
-## Ventures
+<h2 style="color: #007BFF;">Ventures</h2> <!-- Blue for Ventures -->
 
 ### Cloud Walk Enterprises
 <!-- ![Cloud Walk Enterprises Logo](../assets/img/entrepreneur/cwe_logo_scaled.jpg) -->
@@ -43,7 +43,7 @@ I co-founded and led Cazarme as CEO during the pandemic. Cazarme was a B2B SaaS 
 I am currently building a new solution leveraging AI and machine learning. Stay tuned for updates!
 
 ---
-## Teaching
+<h2 style="color:rgb(5, 253, 5);">Teachings</h2> <!-- Green for Teachings -->
 
 ### Sustainable Entrepreneurship Hackathon – Northeastern University (Fall 2024)
 
