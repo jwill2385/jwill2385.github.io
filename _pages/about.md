@@ -17,3 +17,10 @@ social: true # includes social icons at the bottom of the page
 As a visionary leader at the intersection of technology and business, Jadal Williams leverages his engineering background from MIT and Stanford to pioneer groundbreaking solutions. His expertise spans robotics, AI, and computer vision, complemented by proficiency in product management, user research, and customer discovery. Currently Jadal is a PhD student at the Massachusetts Institute of Technology.
 
 Jadal is an adept problem solver with a keen eye for business opportunities. With a track record of founding startups and fostering collaborative teams, Jadal thrives on tackling complex challenges head-on, driven by a passion to engineer meaningful societal impact. Check out some of Jadal's projects below.
+
+<div class="row row-cols-1 row-cols-md-2">
+  {% assign project1 = site.projects | where: "title", "Master's Thesis" | first %}
+  {% assign project2 = site.projects | where: "title", "Picza" | first %}
+  {% include projects.liquid project=project1 %}
+  {% include projects.liquid project=project2 %}
+</div>
