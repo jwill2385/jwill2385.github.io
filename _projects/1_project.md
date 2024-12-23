@@ -15,14 +15,11 @@ For my MIT Master's Thesis I developed a novel method to localize a robotic end 
         {% include figure.liquid loading="eager" path="assets/img/Thesis/crane_robot.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Thesis/crane_robot_grad.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/Thesis/anomaly_isolation_warning.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    On the left, we observe a robot with a single camera sensor and a peg, in the center is myself with the robot, on the right we observe anomoly detection results from our machine learning model 
+    On the left, we observe a robot with a single camera sensor and a peg, on the right we observe anomoly detection results from a Variational Autoencoder (VAE) model
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

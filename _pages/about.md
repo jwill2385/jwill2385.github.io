@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: Jadal_Williams_photo.jpg
+  image: Jadal_Williams_photo_sm.jpg
   image_circular: false # crops the image to make it circular
 
 news: false # includes a list of news items
