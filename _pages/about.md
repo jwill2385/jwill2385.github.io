@@ -23,10 +23,12 @@ Jadal is an adept problem solver with a keen eye for business opportunities. Wit
     <a href="/projects">
       <img src="/assets/img/Thesis/hero_shot_robot.jpg" class="img-fluid" style="max-height: 350px; object-fit: cover;" alt="Master's Thesis">
     </a>
+    <div class="caption">Dexterous Gantry Crane </div>
   </div>
   <div class="col mb-4">
     <a href="/projects">
       <img src="/assets/img/picza_full.jpeg" class="img-fluid" style="max-height: 350px; object-fit: cover;" alt="Picza">
     </a>
+    <div class="caption">Robotic Dolly for Content Creators </div>
   </div>
 </div>
