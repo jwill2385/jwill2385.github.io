@@ -14,6 +14,7 @@
       "startDate": "2023",
       "endDate": null,
       "score": "5.0 / 5.0",
+      "priority": 1,
       "courses": [
         "Deep Learning",
         "Robotic Manipulation"
@@ -27,6 +28,7 @@
       "startDate": "2021-09-01",
       "endDate": "2023-06-01",
       "score": "5.0 / 5.0",
+      "priority": 3,
       "courses": [
         "Intro to Robotics",
         "Product Design & Development",
@@ -40,7 +42,8 @@
       "area": "Mechanical Engineering",
       "startDate": "2017-09-01",
       "endDate": "2021-06-01",
-      "score": "3.78 / 4.0"
+      "score": "3.78 / 4.0",
+      "priority": 4
     },
     {
       "institution": "Southern Denmark University",
@@ -49,7 +52,8 @@
       "area": "Robotics",
       "startDate": "2023-08-01",
       "endDate": "2023-08-31",
-      "summary": "Focused on Path Planning, Computer Vision, and Human-Robot Interaction."
+      "priority": 2,
+      "summary": "Enhanced Robotics knowledge on concepts including Path Planning, Computer Vision, & Human Robot Interaction"
     }
   ],
   "work": [
