@@ -634,7 +634,7 @@ jekyll_get_json:
   - data: resume
     json: assets/json/jadal_resume.json # it can also be an url
 jsonresume:
-  - basics
+  - profile
   - work
   - education
   - publications
