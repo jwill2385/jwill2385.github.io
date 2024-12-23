@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # lets turn off drop down for now
 nav_order: 8
 dropdown: true
 children:

@@ -1,7 +1,7 @@
 {
-  "basics": {
+  "profile": {
     "name": "Jadal Williams",
-    "label": "Graduate Researcher and Computer Vision Specialist",
+    "title": "Graduate Researcher and Computer Vision Specialist",
     "email": "jadal@mit.edu",
     "summary": "Ph.D. Student in Mechanical Engineering at MIT with expertise in robotics and computer vision, holding a strong track record in academia, startups, and professional internships."
   },
