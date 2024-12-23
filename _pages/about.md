@@ -19,13 +19,13 @@ As a visionary leader at the intersection of technology and business, Jadal Will
 Jadal is an adept problem solver with a keen eye for business opportunities. With a track record of founding startups and fostering collaborative teams, Jadal thrives on tackling complex challenges head-on, driven by a passion to engineer meaningful societal impact. Check out some of Jadal's projects below.
 
 <div class="row row-cols-1 row-cols-md-2">
-  <div class="col mb-4">
+  <div class="col mb-4 text-center">
     <a href="/projects">
       <img src="/assets/img/Thesis/hero_shot_robot.jpg" class="img-fluid" style="max-height: 350px; object-fit: cover;" alt="Master's Thesis">
     </a>
     <div class="caption">Dexterous Gantry Crane </div>
   </div>
-  <div class="col mb-4">
+  <div class="col mb-4 text-center">
     <a href="/projects">
       <img src="/assets/img/picza_full.jpeg" class="img-fluid" style="max-height: 350px; object-fit: cover;" alt="Picza">
     </a>
