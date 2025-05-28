@@ -15,10 +15,7 @@
       "endDate": null,
       "score": "5.0 / 5.0",
       "priority": 1,
-      "courses": [
-        "Deep Learning",
-        "Robotic Manipulation"
-      ]
+      "courses": ["Deep Learning", "Robotic Manipulation"]
     },
     {
       "institution": "Massachusetts Institute of Technology",
@@ -29,11 +26,7 @@
       "endDate": "2023-06-01",
       "score": "5.0 / 5.0",
       "priority": 3,
-      "courses": [
-        "Intro to Robotics",
-        "Product Design & Development",
-        "Bio-inspired Robotics"
-      ]
+      "courses": ["Intro to Robotics", "Product Design & Development", "Bio-inspired Robotics"]
     },
     {
       "institution": "Stanford University",
@@ -116,21 +109,9 @@
   ],
   "skills": [
     {
-      "keywords": [
-    "C++",
-    "JavaScript",
-    "Java",
-    "Python",
-    "React",
-    "Android",
-    "OpenCV",
-    "SolidWorks",
-    "MATLAB",
-    "ROS",
-    "ROS2",
-    "PyTorch"
-      ]
-}],
+      "keywords": ["C++", "JavaScript", "Java", "Python", "React", "Android", "OpenCV", "SolidWorks", "MATLAB", "ROS", "ROS2", "PyTorch"]
+    }
+  ],
   "awards": [
     {
       "title": "Ron Brown Scholar",

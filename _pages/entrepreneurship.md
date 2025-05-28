@@ -10,11 +10,13 @@ nav_order: 6
 <h2 style="color: #007BFF;">Ventures</h2> <!-- Blue for Ventures -->
 
 ### Cloud Walk Enterprises
+
 <!-- ![Cloud Walk Enterprises Logo](../assets/img/entrepreneur/cwe_logo_scaled.jpg) -->
 
 <img src="../assets/img/entrepreneur/cwe_logo_scaled.png" alt="CWE Logo" style="width: 250px; height: auto;">
 
 Cloud Walk Enterprises is a software development and consulting company I founded in 2022. We specialize in creating custom software solutions for small and medium-sized businesses, focusing on:
+
 - **Web and Mobile Development**
 - **Software Architecture**
 - **Startup Advising**
@@ -23,8 +25,7 @@ Our team has delivered high-quality solutions across industries such as healthca
 
 ---
 
-### Stealth Startup  
-
+### Stealth Startup
 
 <img src="../assets/img/entrepreneur/stealth_mode.jpg" alt="Stealth Mode" style="width: 250px; height: auto;">
 
@@ -34,16 +35,16 @@ I am currently building a new solution leveraging AI and machine learning. Stay 
 
 ### Cazarme INC
 
-
 <img src="../assets/img/entrepreneur/Cazarme_logo.png" alt="Cazarme Logo" style="width: 250px; height: auto;">
 
+I co-founded and led Cazarme as CEO during the pandemic. Cazarme was a B2B SaaS startup that leveraged Natural Language Processing (NLP) to analyze user research interviews.
 
-I co-founded and led Cazarme as CEO during the pandemic. Cazarme was a B2B SaaS startup that leveraged Natural Language Processing (NLP) to analyze user research interviews. 
 - **Accelerator Program**: Alchemist Accelerator Cohort XXIX
 - **Backed By**: Lightspeed Venture Partners and Accel
 - **Impact**: Enabled businesses to deeply understand their customers and derive actionable insights from the user research process.
 
 ---
+
 <h2 style="color:rgb(5, 253, 5);">Teachings</h2> <!-- Green for Teachings -->
 
 ### Sustainable Entrepreneurship Hackathon – Northeastern University (Fall 2024)
