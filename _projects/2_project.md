@@ -23,6 +23,7 @@ Product Design and Development - MIT 2.739
 </div>
 
 The Picza is a robotic dolly that provides amateur filmmakers the ability to shoot professional-level tracking, trucking, and arc shots.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/picza_full.jpeg" title="Picza" class="img-fluid rounded z-depth-1" %}
@@ -35,6 +36,7 @@ The Picza is a robotic dolly that provides amateur filmmakers the ability to sho
 Design question: How can we enable amateur filmmakers to achieve these shots without relying on a cameraman and expensive equipment?
 
 We narrowed in on our beachhead market as Micro-creators on Youtube with 1,000 to 250,000 followers
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/target_market_picza.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -42,13 +44,13 @@ We narrowed in on our beachhead market as Micro-creators on Youtube with 1,000 t
 </div>
 
 And our Secondary market as Professional Video Equipment Rental Facilities
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/secondary_market_picza.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 Through our research, we identifiyed that the majority of amateur creators lack access to a professional camera crew and typically rely on a stationary tripod to record all of their content. This restriction limits many cretors to develop content within the confine view of a fixed camera angle.
-
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -75,7 +77,6 @@ Our prototype uses an Arduino microcontroller to interface with two drive motors
     </div>
 </div>
 
-
 We purchased an off the shelf tripod dolly, dissasembled its components, and modernized the design by adding a microcontroller and motors which lead to our finalized protoype.
 
 <div class="row justify-content-center">
@@ -83,7 +84,6 @@ We purchased an off the shelf tripod dolly, dissasembled its components, and mod
         {% include figure.liquid loading="eager" path="assets/img/reverse_engineer.gif" title="Base" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-
 
 <div class="row justify-content-center">
     <div class="col-sm-8">
@@ -93,4 +93,3 @@ We purchased an off the shelf tripod dolly, dissasembled its components, and mod
 <div class="caption">
     Finalized Picza Prototype   
 </div>
-
