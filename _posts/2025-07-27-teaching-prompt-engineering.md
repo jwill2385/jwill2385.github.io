@@ -57,18 +57,14 @@ In today's AI-driven world, the ability to craft effective prompts is becoming a
 ## Teaching Materials
 
 ### Presentation Slides
-You can access the course materials in multiple formats:
 
 **View Online (PDF Viewer):**
 <iframe src="{{ '/assets/pdf/The Art of Prompting.pdf' | relative_url }}" width="100%" height="600px" style="border: none;">
   <p>Your browser does not support iframes. <a href="{{ '/assets/pdf/The Art of Prompting.pdf' | relative_url }}">Download the PDF</a> instead.</p>
 </iframe>
 
-**Download Options:**
-- **[PDF Slides]({{ '/assets/pdf/The Art of Prompting.pdf' | relative_url }})** - Best for viewing and sharing
-- **[PowerPoint Slides]({{ '/assets/pdf/Prompt-Engineering-Slides.pptx' | relative_url }})** - Editable version (if you upload the .pptx file)
+<!-- - **[PDF Slides]({{ '/assets/pdf/The Art of Prompting.pdf' | relative_url }})** - Best for viewing and sharing If i want a direct download link -->
 
-*Note: If you have the original PowerPoint file, you can upload it to the `assets/pdf/` folder for download access.*
 
 ### Interactive Exercises
 The class included several hands-on exercises:
