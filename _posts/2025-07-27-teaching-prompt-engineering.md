@@ -2,7 +2,7 @@
 layout: post
 title: "Teaching the Art of Prompting - A Deep Dive into Prompt Engineering"
 date: 2025-07-27 10:00:00
-description: "Reflections on teaching a comprehensive class on prompt engineering, covering techniques, best practices, and hands-on learning experiences."
+description: "Reflections on teaching a comprehensive workshop on prompt engineering, covering techniques, best practices, and hands-on learning experiences."
 tags: AI prompt-engineering teaching education machine-learning
 categories: education
 citation: false
@@ -12,18 +12,18 @@ related_posts: true
 
 ## Introduction
 
-On July 27th, 2025, I had the privilege of teaching a comprehensive class on **Prompt Engineering** - one of the most crucial skills in the age of AI. This post reflects on the teaching experience, the curriculum we covered, and the insights gained from helping others master the art of effective AI communication.
+On July 27th, 2025, I had the privilege of teaching a comprehensive workshop on **Prompt Engineering** - one of the most crucial skills in the age of AI. This post reflects on the teaching experience, the curriculum we covered, and the insights gained from helping others master the art of effective AI communication.
 
-## Class Overview
+## Event Overview
 
-### What Was the Class?
+### What Was the Workshop?
 A hands-on workshop focused on prompt engineering techniques for large language models, designed to help participants become more effective at communicating with AI systems like ChatGPT, Claude, and other LLMs.
 
 ### Why Prompt Engineering Matters
 In today's AI-driven world, the ability to craft effective prompts is becoming as important as traditional programming skills. It's the bridge between human intent and AI capability.
 
 ### Key Statistics
-- **Participants:** [Number of students]
+- **Participants:** 80
 - **Duration:** [Class duration]
 - **Format:** [In-person/Online/Hybrid]
 - **Level:** [Beginner/Intermediate/Advanced]
@@ -59,8 +59,10 @@ In today's AI-driven world, the ability to craft effective prompts is becoming a
 ### Presentation Slides
 You can access the course materials in multiple formats:
 
-**PDF Version (Recommended for viewing online):**
-{% include figure.liquid path="assets/pdf/The Art of Prompting.pdf" title="The Art of Prompting - Complete Slides" class="img-fluid rounded z-depth-1" %}
+**View Online (PDF Viewer):**
+<iframe src="{{ '/assets/pdf/The Art of Prompting.pdf' | relative_url }}" width="100%" height="600px" style="border: none;">
+  <p>Your browser does not support iframes. <a href="{{ '/assets/pdf/The Art of Prompting.pdf' | relative_url }}">Download the PDF</a> instead.</p>
+</iframe>
 
 **Download Options:**
 - **[PDF Slides]({{ '/assets/pdf/The Art of Prompting.pdf' | relative_url }})** - Best for viewing and sharing
