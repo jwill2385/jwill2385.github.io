@@ -12,7 +12,7 @@ related_posts: true
 
 ## Introduction
 
-On July 27th, 2025, I had the privilege of teaching a comprehensive workshop on **Prompt Engineering** - one of the most crucial skills in the age of AI. This post reflects on the teaching experience, the curriculum we covered, and the insights gained from helping others master the art of effective AI communication.
+On July 24th, 2025, I had the privilege of teaching a comprehensive workshop on **Prompt Engineering** - one of the most crucial skills in the age of AI. This post reflects on the teaching experience, the curriculum covered, and the insights gained from helping others master the art of effective AI communication.
 
 ## Event Overview
 
@@ -20,39 +20,70 @@ On July 27th, 2025, I had the privilege of teaching a comprehensive workshop on 
 A hands-on workshop focused on prompt engineering techniques for large language models, designed to help participants become more effective at communicating with AI systems like ChatGPT, Claude, and other LLMs.
 
 ### Why Prompt Engineering Matters
-In today's AI-driven world, the ability to craft effective prompts is becoming as important as traditional programming skills. It's the bridge between human intent and AI capability.
+In today's AI-driven world, the ability to craft effective prompts is becoming as important as traditional programming skills. It's the bridge between human intent and AI capability. By adding context
 
 ### Key Statistics
 - **Participants:** 80
-- **Duration:** [Class duration]
-- **Format:** [In-person/Online/Hybrid]
+- **Disciplines:** Private Equity, Venture Capital, Entrepreneurs, PhD Students, Operators
 - **Level:** [Beginner/Intermediate/Advanced]
 
 ## Curriculum Breakdown
 
 ### Core Topics Covered
 
-#### 1. Fundamentals of Prompt Engineering
-- Understanding how LLMs process prompts
-- The anatomy of an effective prompt
-- Common pitfalls and how to avoid them
+#### Main Presentation: Prompt Engineering Fundamentals
 
-#### 2. Advanced Techniques
-- **Chain-of-Thought Prompting**: Breaking down complex problems
-- **Few-Shot Learning**: Providing examples for better results
-- **Role-Based Prompting**: Getting AI to assume specific personas
-- **Iterative Refinement**: Improving prompts through feedback
+**1. Chain-of-Thought Prompting**
+- Breaking down complex problems into logical steps
+- Guiding AI through reasoning processes
+- When and how to use step-by-step thinking
 
-#### 3. Practical Applications
-- Content creation and writing assistance
-- Code generation and debugging
-- Research and analysis tasks
-- Creative applications
+**2. Importance of Clear, Contextual Prompts**
+- Crafting specific, unambiguous instructions
+- The role of context in getting accurate responses
 
-#### 4. Best Practices and Ethics
-- Responsible AI usage
-- Bias awareness and mitigation
-- Privacy and security considerations
+**3. Persona and Role Definition**
+- Providing context about what persona the AI should take. Example : "You are a world class expert in robotics with 20 years of experience working at Boston Dynamics"
+- Setting up the AI as an expert in specific domains
+- Tailoring responses through role-based prompting
+
+**4. Situational Context and Background**
+- Give more context about your situation and steps that have been taken so far
+- Building comprehensive background for better AI understanding
+- Incremental information sharing for complex scenarios
+- Feeding LLM design guidelines, instructions, and other criteria which are crucial to tailor best response
+
+**5. Interactive Prompting Techniques**
+- Ask the LLM to ask you clarifying questions before providing an answer
+- Iterative refinement through dialogue
+
+#### Breakout Room Sessions
+
+After the main presentation, participants split into **4 specialized breakout rooms** for hands-on practice and curated discussions:
+
+**Room 1: GTM (Go-to-Market) Strategy**
+- Craft prompts to assist in market analysis and competitive intelligence
+- Customer segmentation and persona development prompts
+- Market research and opportunity identification techniques
+- Competitive positioning and differentiation strategies
+
+**Room 2: Employee Onboarding**
+- Develop prompts to generate onboarding documents tailored to different employee roles and levels
+- Creating role-specific training materials and checklists
+- Personalized welcome sequences and resource guides
+- Performance expectation and goal-setting frameworks
+
+**Room 3: Organizational/File Structure**
+- Design prompts to help organizations establish clear file-naming conventions
+- Directory structures and information architecture
+- Documentation standards and knowledge management
+- Process optimization and workflow design
+
+**Room 4: Technical Prompts**
+- Create technical-focused prompts suitable for engineers in both software and hardware domains
+- Code generation and debugging assistance
+- Technical documentation and specification writing
+- System architecture and design decision support
 
 ## Teaching Materials
 
@@ -74,11 +105,10 @@ The class included several hands-on exercises:
 
 ## Key Learning Outcomes
 
-### What Students Mastered
+### What Attendees Mastered
 - **Prompt Structure**: How to organize prompts for maximum effectiveness
 - **Context Management**: Providing the right amount of background information
 - **Output Control**: Directing AI responses in specific formats and styles
-- **Troubleshooting**: Debugging ineffective prompts
 
 ### Breakthrough Moments
 *Share specific examples of student "aha!" moments or particularly successful prompt improvements.*
@@ -90,8 +120,6 @@ The class included several hands-on exercises:
 - Students reported increased confidence in AI interactions
 - [Include specific metrics or quotes if available]
 
-### Follow-up Success Stories
-*If available, share how students applied these skills in their work or projects.*
 
 ## Lessons Learned as an Instructor
 
@@ -100,10 +128,6 @@ The class included several hands-on exercises:
 - **Real Examples**: Using actual prompts and results resonated strongly
 - **Collaborative Learning**: Peer feedback improved everyone's skills
 
-### Areas for Improvement
-- **Time Management**: Some advanced topics needed more time
-- **Technical Setup**: [Any technical challenges with AI tools]
-- **Diverse Skill Levels**: Balancing content for different experience levels
 
 ### Teaching Insights
 - Prompt engineering is both art and science
