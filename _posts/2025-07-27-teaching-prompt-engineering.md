@@ -113,7 +113,7 @@ The workshop included several hands-on exercises:
 ## Resources and Further Learning
 - Prompt engineering is both an art and science
 - The field evolves rapidly - new models, tools, and techniques are being deployed frequently
-- Check out the website [Theresanaiforthat.com]({https://theresanaiforthat.com/})
+- Check out the website [Theresanaiforthat.com](https://theresanaiforthat.com/)
 ### Recommended Tools
 - **ChatGPT**: OpenAI's flagship model
 - **Claude**: Anthropic's conversational AI
