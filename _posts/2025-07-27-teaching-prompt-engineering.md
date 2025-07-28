@@ -119,7 +119,7 @@ The workshop included several hands-on exercises:
 - **ChatGPT**: OpenAI's flagship model
 - **Claude**: Anthropic's conversational AI
 - **Sora**: OpenAI's image and video specific model
-- **Cursor**: IDE for vibe coding and integrating prompts directly into development workflow
+- **Cursor**: IDE for vibe coding and integrating prompts directly into software development workflow
 
 ## Conclusion
 
