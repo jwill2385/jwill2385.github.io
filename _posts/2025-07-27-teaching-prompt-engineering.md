@@ -110,10 +110,11 @@ The workshop included several hands-on exercises:
 - **Output Control**: Directing AI responses in specific formats and styles
 
 
-## Resources and Further Learning
+### Resources and Further Learning
 - Prompt engineering is both an art and science
 - The field evolves rapidly - new models, tools, and techniques are being deployed frequently
-- Check out the website [Theresanaiforthat.com](https://theresanaiforthat.com/)
+- Check out the website [Theresanaiforthat.com](https://theresanaiforthat.com/) which curates list of AI tools
+
 ### Recommended Tools
 - **ChatGPT**: OpenAI's flagship model
 - **Claude**: Anthropic's conversational AI
@@ -126,11 +127,11 @@ Effectibe prompt engineering is a transformative skill. As AI becomes more integ
 
 The enthusiasm and rapid progress of the attendees reinforced my belief that prompt engineering education should be a priority in both academic and professional development programs.
 
-## Course Materials Access
+<!-- ## Course Materials Access
 
-All course materials are available for download:
+All course materials are available for download: -->
 
-- **[Presentation Slides]({{ '/assets/pdf/The Art of Prompting.pdf' | relative_url }})** - Complete slide deck
+<!-- - **[Presentation Slides]({{ '/assets/pdf/The Art of Prompting.pdf' | relative_url }})** - Complete slide deck -->
 
 ## Acknowledgments
 
