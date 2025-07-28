@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Teaching the Art of Prompting - A Deep Dive into Prompt Engineering"
+title: "The Art of Prompting - A Deep Dive into Prompt Engineering"
 date: 2025-07-27 10:00:00
 description: "Reflections on teaching a comprehensive workshop on prompt engineering, covering techniques, best practices, and hands-on learning experiences."
 tags: AI prompt-engineering teaching education machine-learning
@@ -25,7 +25,6 @@ In today's AI-driven world, the ability to craft effective prompts is becoming a
 ### Key Statistics
 - **Participants:** 80
 - **Disciplines:** Private Equity, Venture Capital, Entrepreneurs, PhD Students, Operators
-- **Level:** [Beginner/Intermediate/Advanced]
 
 ## Curriculum Breakdown
 
@@ -44,14 +43,14 @@ In today's AI-driven world, the ability to craft effective prompts is becoming a
 
 **3. Persona and Role Definition**
 - Providing context about what persona the AI should take. Example : "You are a world class expert in robotics with 20 years of experience working at Boston Dynamics"
-- Setting up the AI as an expert in specific domains
+- Explicity stating the LLM is an expert in specific domains
 - Tailoring responses through role-based prompting
 
 **4. Situational Context and Background**
 - Give more context about your situation and steps that have been taken so far
 - Building comprehensive background for better AI understanding
 - Incremental information sharing for complex scenarios
-- Feeding LLM design guidelines, instructions, and other criteria which are crucial to tailor best response
+- Feeding LLM design guidelines, instructions, Scope of Work, and other criteria which are crucial to tailor best response
 
 **5. Interactive Prompting Techniques**
 - Ask the LLM to ask you clarifying questions before providing an answer
@@ -98,7 +97,7 @@ After the main presentation, participants split into **4 specialized breakout ro
 
 
 ### Interactive Exercises
-The class included several hands-on exercises:
+The workshop included several hands-on exercises:
 - Prompt optimization challenges
 - Real-world scenario problem-solving
 - Collaborative prompt writing sessions
@@ -110,63 +109,33 @@ The class included several hands-on exercises:
 - **Context Management**: Providing the right amount of background information
 - **Output Control**: Directing AI responses in specific formats and styles
 
-### Breakthrough Moments
-*Share specific examples of student "aha!" moments or particularly successful prompt improvements.*
-
-## Student Feedback and Results
-
-### Immediate Impact
-- Pre/post class skill assessments showed significant improvement
-- Students reported increased confidence in AI interactions
-- [Include specific metrics or quotes if available]
-
-
-## Lessons Learned as an Instructor
-
-### What Worked Well
-- **Hands-on Practice**: Students learned best by doing, not just listening
-- **Real Examples**: Using actual prompts and results resonated strongly
-- **Collaborative Learning**: Peer feedback improved everyone's skills
-
-
-### Teaching Insights
-- Prompt engineering is both art and science
-- Students need practice with failure as much as success
-- The field evolves rapidly - curriculum must stay current
 
 ## Resources and Further Learning
-
+- Prompt engineering is both an art and science
+- The field evolves rapidly - new models, tools, and techniques are being deployed frequently
+- Check out the website [Theresanaiforthat.com]({https://theresanaiforthat.com/})
 ### Recommended Tools
 - **ChatGPT**: OpenAI's flagship model
 - **Claude**: Anthropic's conversational AI
-- **Prompt Libraries**: Collections of effective prompts
-- **Testing Platforms**: Tools for prompt experimentation
-
-### Additional Resources
-- Research papers on prompt engineering
-- Online communities and forums
-- Practice datasets and challenges
+- **Sora**: OpenAI's image and video specific model
+- **Cursor**: IDE for vibe coding and integrating prompts directly into development workflow
 
 ## Conclusion
 
-Teaching prompt engineering revealed just how transformative this skill can be. As AI becomes more integrated into our daily workflows, the ability to communicate effectively with these systems will be a defining competency for the next generation of professionals.
+Effectibe prompt engineering is a transformative skill. As AI becomes more integrated into our daily workflows, the ability to communicate effectively with these systems will be a defining competency for the next generation of professionals.
 
-The enthusiasm and rapid progress of the students reinforced my belief that prompt engineering education should be a priority in both academic and professional development programs.
+The enthusiasm and rapid progress of the attendees reinforced my belief that prompt engineering education should be a priority in both academic and professional development programs.
 
 ## Course Materials Access
 
 All course materials are available for download:
 
 - **[Presentation Slides]({{ '/assets/pdf/The Art of Prompting.pdf' | relative_url }})** - Complete slide deck
-- **Exercise Worksheets** - [Link to additional materials if you have them]
-- **Resource List** - Curated links and references
 
 ## Acknowledgments
 
-Thank you to all the students who brought curiosity and engagement to the classroom. Your questions and insights made this a truly collaborative learning experience.
-
-Special thanks to [Institution/Organization] for hosting this workshop and supporting AI education initiatives.
+The Changemaker's Convening collaborated with C10 labs, Innospark Ventures, and MGMT Boston to host this great event which included Fireside chat with prominant AI leaders. Read more about the full event here.
 
 ---
 
-*Interested in learning more about prompt engineering or attending future workshops? Feel free to reach out or leave a comment below!* 
+*Interested in learning more about prompt engineering or attending future workshops? Feel free to reach out at jadal@cloudwalkenterprises.com* 
