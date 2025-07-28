@@ -139,4 +139,4 @@ The Changemaker's Convening collaborated with C10 labs, Innospark Ventures, and 
 
 ---
 
-*Interested in learning more about prompt engineering or attending future workshops? Feel free to reach out at jadal@cloudwalkenterprises.com* 
+*Interested in learning more about prompt engineering, attending future workshops, or looking to implement AI solutions in your organization? I help companies develop custom prompting strategies and train teams. Feel free to reach out at jadal@cloudwalkenterprises.com* 
