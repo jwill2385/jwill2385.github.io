@@ -6,7 +6,7 @@ description: "Reflections on teaching a comprehensive workshop on prompt enginee
 tags: AI prompt-engineering teaching education machine-learning
 categories: education
 citation: false
-giscus_comments: true
+giscus_comments: false #Turn off comments
 related_posts: true
 ---
 
