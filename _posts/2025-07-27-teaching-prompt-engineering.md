@@ -2,7 +2,7 @@
 layout: post
 title: "The Art of Prompting - A Deep Dive into Prompt Engineering"
 date: 2025-07-27 10:00:00
-description: "Reflections on teaching a comprehensive workshop on prompt engineering, covering techniques, best practices, and hands-on learning experiences."
+description: "Reflections on teaching a comprehensive workshop on prompt engineering, covering techniques, best practices, and hands-on learning experiences for using LLMs."
 tags: AI prompt-engineering teaching education machine-learning
 categories: education
 citation: false
@@ -24,7 +24,7 @@ In today's AI-driven world, the ability to craft effective prompts is becoming a
 
 ### Key Statistics
 - **Participants:** 80
-- **Disciplines:** Private Equity, Venture Capital, Entrepreneurs, PhD Students, Operators
+- **Attendee backgrounds:** Private Equity, Venture Capital, Entrepreneurs, PhD Students, Operators
 
 ## Curriculum Breakdown
 
