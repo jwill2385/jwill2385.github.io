@@ -20,7 +20,7 @@ On July 24th, 2025, I had the privilege of teaching a comprehensive workshop on 
 A hands-on workshop focused on prompt engineering techniques for large language models, designed to help participants become more effective at communicating with AI systems like ChatGPT, Claude, and other LLMs.
 
 ### Why Prompt Engineering Matters
-In today's AI-driven world, the ability to craft effective prompts is becoming as important as traditional programming skills. It's the bridge between human intent and AI capability. By adding context
+In today's AI-driven world, the ability to craft effective prompts is becoming as important as traditional programming skills. It's the bridge between human intent and AI capability. By adding context, LLMs are able to tailor responses towards specific domains to provide optimal results
 
 ### Key Statistics
 - **Participants:** 80
@@ -123,7 +123,7 @@ The workshop included several hands-on exercises:
 
 ## Conclusion
 
-Effectibe prompt engineering is a transformative skill. As AI becomes more integrated into our daily workflows, the ability to communicate effectively with these systems will be a defining competency for the next generation of professionals.
+Effective prompt engineering is a transformative skill. As AI becomes more integrated into our daily workflows, the ability to communicate effectively with these systems will be a defining competency for the next generation of professionals.
 
 The enthusiasm and rapid progress of the attendees reinforced my belief that prompt engineering education should be a priority in both academic and professional development programs.
 
