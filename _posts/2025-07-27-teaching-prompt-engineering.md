@@ -135,7 +135,7 @@ All course materials are available for download: -->
 
 ## Acknowledgments
 
-The Changemaker's Convening collaborated with C10 labs, Innospark Ventures, and MGMT Boston to host this great event which included Fireside chat with prominant AI leaders. Read more about the full event here.
+The Changemakers Convening collaborated with C10 labs, Innospark Ventures, and MGMT Boston to host this great event which included Fireside chat with prominant AI leaders. Read more about the full event here.
 
 ---
 
