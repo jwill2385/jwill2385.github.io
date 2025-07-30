@@ -23,7 +23,7 @@ A hands-on workshop focused on prompt engineering techniques for large language 
 In today's AI-driven world, the ability to craft effective prompts is becoming as important as traditional programming skills. It's the bridge between human intent and AI capability. By adding context, LLMs are able to tailor responses towards specific domains to provide optimal results
 
 ### Key Statistics
-- **Participants:** 80
+- **Participants:** 80+
 - **Attendee backgrounds:** Private Equity, Venture Capital, Entrepreneurs, PhD Students, Operators
 
 ## Curriculum Breakdown
@@ -135,7 +135,7 @@ All course materials are available for download: -->
 
 ## Acknowledgments
 
-The Changemakers Convening collaborated with C10 labs, Innospark Ventures, and MGMT Boston to host this great event which included Fireside chat with prominant AI leaders. Read more about the full event here.
+The Changemakers Convening collaborated with C10 labs, Innospark Ventures, and MGMT Boston to host this great event which included Fireside chat with prominant AI leaders. Read more about the full event [here](https://www.linkedin.com/posts/jadal-williams_changemakersconvening-promptengineering-bostontech-activity-7356307599119564800-IjHi?utm_source=share&utm_medium=member_desktop&rcm=ACoAACPqnqYBDVIfBAjwHRXEUsZgIZYVIW8UzTs).
 
 ---
 
