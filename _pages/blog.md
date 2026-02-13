@@ -30,5 +30,6 @@ nav_order: 5
 </div>
 
 {% if site.posts.size == 0 %}
+
   <p>No blog posts yet. Check back soon!</p>
-{% endif %} 
+{% endif %}
