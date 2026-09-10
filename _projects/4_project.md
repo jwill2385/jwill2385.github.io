@@ -25,7 +25,7 @@ Cookability is a personal project that helps answer an everyday question: what s
 
 ## Your recipes and something new
 
-Recipes can be entered by hand, pasted as text, or imported from a link or a text-based PDF. A searchable library keeps them together, while favorites help shape future recommendations. Discover offers three starting points: Surprise me, What are you in the mood for?, and What's in your fridge?
+Recipes can be entered by hand, pasted as text, or imported from a website link or a text-based PDF. A searchable library keeps them together, while favorites help shape future recommendations. Discover offers three starting points: Surprise me, What are you in the mood for?, and What's in your fridge?
 
 <div class="row">
     <div class="col-sm-6 mt-3 mt-md-0">
@@ -57,4 +57,4 @@ Cooking mode provides large, step-by-step directions, timers, and hands-free voi
 
 ## How it was built
 
-Cookability uses React Native and TypeScript with SQLite for recipe storage. A separate TypeScript domain layer handles ingredient parsing, exact quantity calculations, and recipe variations. AI responses are validated against structured schemas before they reach the interface, and a server-side proxy keeps API keys out of the app. Native modules support PDF text extraction and recipe-photo storage, while speech recognition and text-to-speech support hands-free cooking.
+Cookability uses React Native and TypeScript with SQLite for recipe storage. A separate TypeScript domain layer handles ingredient parsing, exact quantity calculations, and recipe variations. AI responses are validated against structured schemas before they reach the interface. Native modules support PDF text extraction and recipe-photo storage, while speech recognition and text-to-speech support hands-free cooking.
